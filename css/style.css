@@ -1,0 +1,45 @@
+*,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.nav-link {
+    color: gold !important;
+    padding: 0 !important;
+    text-align: center;
+    font-size: x-large;
+}
+
+.navbar-nav.logo {
+    width: 5%;
+}
+
+img {
+    width: 100%;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.fond {
+    background-color: rgb(208, 137, 137);
+}
+
+.wrapper {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.lab {
+    width: 10%;
+}
+
+.inp {
+    width: 15%;
+}
+
+.inpdate {
+    width: 25%;
+}
