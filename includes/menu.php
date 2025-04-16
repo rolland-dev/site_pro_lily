@@ -26,9 +26,10 @@ if (isset($_SESSION['role'])) {
 }
 
 ?>
+ 
 
     <!-- MENU GENERAL -->
-    <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg bg-info" data-bs-theme="dark">
         <div class="container-fluid">
             <a class="navbar-brand" href="./index.php"> <img src="" alt="logo dsformation" width="65%" class="img_menu"> </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
